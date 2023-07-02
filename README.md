@@ -7,3 +7,5 @@
   - C#
 
 - インフラ寄りからWebアプリケーションまで幅広めにやっています
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deflis)](https://github.com/anuraghazra/github-readme-stats)
